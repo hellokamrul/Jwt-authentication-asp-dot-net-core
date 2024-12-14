@@ -1,0 +1,6 @@
+@User_Role_Management_HostAddress = http://localhost:5046
+
+GET {{User_Role_Management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
